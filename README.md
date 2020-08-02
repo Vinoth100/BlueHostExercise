@@ -1,4 +1,7 @@
-### Example
+### On MacOS Catalina don't download the clone zip file from Chrome. Binary will not execute, have to create it using make.
+
+### 4 REST API created for Load,Add,List and emaillisting as a prototype. 
+
 
 ### Build
 
